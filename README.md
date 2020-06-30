@@ -21,7 +21,8 @@ After that, change another characteristics, and test if this impact the result.
 
 So, let's learn! 8-)
 
-![](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
+
+<img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width="300" height="250" />
 
 #iswe
 
